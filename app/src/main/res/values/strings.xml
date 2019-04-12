@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bmi_unit">bmi_unit</string>
+</resources>
